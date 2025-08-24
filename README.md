@@ -52,7 +52,7 @@ You can validate data fields by applying some basic checks. I have not implement
 2.  Roll No & Voter ID: Are there roll numbers that exceed the typical maximum length of a roll (1500 voters + 20% margin of safety)? Any missing roll numbers or EPIC ID? Any EPIC ID that do not make sense (under 5 characters or over 30 characters)?
 3.  Part Number: Any characters in this field instead of numeric values?
 4.  Age: Unusual age numbers such as under 18 or over 110 years?
-5.  Totals in Metadata file: Any extremely skewed gender ratio (5:1 : M:F) or over 200 voters in "Other" gender column? Additions or deletions exceeding 15-20 of the original totals?
+5.  Totals in Metadata file: Any extremely skewed gender ratio (5:1 : M:F) or over 200 voters in "Other" gender column? Additions or deletions exceeding 15-20% of the original totals?
 
 ------------------------------------------------------------------------
 
