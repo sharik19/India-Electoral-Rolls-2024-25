@@ -58,6 +58,8 @@ You can validate data fields by applying some basic checks. I have not implement
 
 #### Acknowledgements
 
+This project is supported by the [Global Democracy Commons](https://demos.berkeley.edu/) Initiative at the University of California, Berkeley.
+
 This work has been challenging but also rewarding in exploring the frontier of machine learning and high-performance computing. It would not have been possible without the high-performance computing resources made available via:
 
 1.  University of California, Merced’s Pinnacles cluster
